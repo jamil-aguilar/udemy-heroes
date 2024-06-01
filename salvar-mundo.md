@@ -1,3 +1,0 @@
-# DESTROY
-
-´´´ Destruir el mundoo ´´´
