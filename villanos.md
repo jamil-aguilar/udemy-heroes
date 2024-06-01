@@ -11,6 +11,7 @@
 # NOTA
 
 ```
-1.- Notas
+1.- Notas 1
+2.- Notas 2
 
 ```
