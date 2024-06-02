@@ -1,4 +1,4 @@
-# NOTAS y OBJETIVOS DEL REPO
+# NOTAS y OBJETIVOS DEL REPO PRINCIPAL
 
 ```
 Este es un repositorio
